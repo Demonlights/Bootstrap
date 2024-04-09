@@ -1,0 +1,4 @@
+John''s car'
+'A' 'B' 'C'
+U&'W\00f6rter ' '\\ \+01f600 /'
+U&'|00a1' UESCAPE '|'
